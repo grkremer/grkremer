@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🎓 Master's student in Computer Science at UFRGS
-- 💻 Currently working with machine learning and optimization
+- 💻 Currently working with Machine Learning and Optimization
 - 📫 Email: grkremer@inf.ufrgs.br 
 - 😄 Pronouns: he/him
   
